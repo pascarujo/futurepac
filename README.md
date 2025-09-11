@@ -68,9 +68,9 @@ Ao adicionar links, use o seguinte formato:
 
 ## 📞 Contato
 
-**Pablo Mascarenhas de Araújo**
-pascarujo@gmail.com
-linkedin.com/in/pascarujo/
+**Pablo Mascarenhas de Araújo**  
+[pascarujo@gmail.com](mailto:pascarujo@gmail.com)  
+[linkedin.com/in/pascarujo](https://linkedin.com/in/pascarujo)
 
 Para dúvidas, sugestões ou colaborações, entre em contato através das issues do repositório.
 
