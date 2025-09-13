@@ -4,7 +4,7 @@ Repositório com links e recursos interessantes sobre **Inteligência Artificial
 
 ## 📋 Sobre
 
-Este repositório reúne conteúdos, artigos, ferramentas e recursos relacionados à aplicação de Inteligência Artificial no setor energético.
+Este repositório reúne conteúdos, artigos, ferramentas e recursos relacionados à aplicação de Inteligência Artificial no setor elétrico, sobretudo em sistemas de Proteção, Automação e Controle (PAC).
 
 
 ### Papers
@@ -13,9 +13,9 @@ Este repositório reúne conteúdos, artigos, ferramentas e recursos relacionado
 - [Leveraging Conversational Generative AI for Anomaly Detection in Digital Substations](https://arxiv.org/abs/2411.16692) - Sistema de diálogo orientado a tarefas para detecção de anomalias em mensagens GOOSE e SV de subestações digitais usando IA generativa.
 - [ChatGPT for PLC/DCS Control Logic Generation](https://arxiv.org/abs/2305.15809) - Estudo exploratório sobre geração de lógica de controle para PLCs e DCS usando ChatGPT e linguagem natural.
 - [GAN-GRID: A Novel Generative Attack on Smart Grid Stability Prediction](https://arxiv.org/abs/2405.12076v1) - Ataque adversarial usando GANs para comprometer sistemas de previsão de estabilidade em smart grids.
-- [LLM-based event log analysis techniques: A survey](https://arxiv.org/abs/2502.00677v1) - Survey sobre técnicas de análise de logs de eventos usando LLMs, aplicável à segurança cibernética em sistemas energéticos.
-- [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974) - Framework leve que usa LLMs para análise de causa raiz em redes, aplicável a sistemas de comunicação em infraestrutura energética.
-- [Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts](https://arxiv.org/abs/2409.17106) - Framework de IA para geração de modelos CAD paramétricos a partir de instruções em linguagem natural, aplicável ao design de equipamentos energéticos.
+- [LLM-based event log analysis techniques: A survey](https://arxiv.org/abs/2502.00677v1) - Survey sobre técnicas de análise de logs de eventos usando LLMs.
+- [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974) - Utilização de LLMs com raciocínio em simulador para análise de causa raiz em redes 5G.
+- [Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts](https://arxiv.org/abs/2409.17106) - Framework de IA para geração de modelos CAD paramétricos a partir de instruções em linguagem natural.
 - [RL2Grid: Benchmarking Reinforcement Learning in Power Grid Operations](https://arxiv.org/abs/2503.23101) - Benchmark padronizado para avaliação de algoritmos de Reinforcement Learning em operações de rede elétrica, desenvolvido em colaboração com operadores do sistema.
 
 ### Casos de Uso Empresariais
