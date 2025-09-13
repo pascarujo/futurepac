@@ -1,10 +1,10 @@
-# IA Energia 🤖⚡
+# Future PAC 🤖⚡
 
-Repositório com links e recursos interessantes sobre **Inteligência Artificial no Setor de Energia**.
+Repositório com links e recursos interessantes sobre **Novas Tecnologias no Setor de Energia**.
 
 ## 📋 Sobre
 
-Este repositório reúne conteúdos, artigos, ferramentas e recursos relacionados à aplicação de Inteligência Artificial no setor elétrico, sobretudo em sistemas de Proteção, Automação e Controle (PAC).
+Este repositório reúne conteúdos, artigos, ferramentas e recursos relacionados à aplicação de tecnologias emergentes como vPAC e Inteligência Artificial no setor elétrico, sobretudo em sistemas de Proteção, Automação e Controle (PAC).
 
 
 ### Papers
